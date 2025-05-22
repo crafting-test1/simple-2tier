@@ -1,2 +1,1 @@
-# simple-2tier
-A simple 2-tier application
+A simple test for python to use redis database. Activate virtual environment before running main.py.
