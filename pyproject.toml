@@ -1,5 +1,5 @@
 [project]
-name = "llm-auto"
+name = "simple-2tier"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
